@@ -1,0 +1,2 @@
+from willapp import app
+
